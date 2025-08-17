@@ -1,0 +1,23 @@
+{
+  "name": "G2G SG\u2194IST Time Converter",
+  "short_name": "SG\u2194IST",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#06070d",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
